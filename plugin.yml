@@ -1,0 +1,10 @@
+name: VisionPlugin
+version: 1.0.0
+api: 3.0.0
+main: HarixTeam\Vision
+author: HacheBg
+Discord: https://discord.gg/scwqt6Qr9a
+
+commands:
+  vision:
+    description: "Permet de mettre le vision"
